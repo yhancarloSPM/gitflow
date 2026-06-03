@@ -1,1 +1,1 @@
-alert('feature-1- new')
+alert('feature')
